@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       {/* ---------- Logo Banner Section ---------- */}
-      <section className="bg-slate-500 py-10">
+      <section className="bg-white py-10">
         <div className="container flex justify-center">
           <img
             src={logo}
