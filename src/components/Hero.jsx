@@ -11,7 +11,7 @@ export default function Hero() {
           Quality pre-owned vehicles. Transparent prices. Simple financing.
         </p>
         <div className="mt-6 flex gap-3">
-          <Link to="/inventory" className="px-5 py-3 bg-white text-[#102656] rounded-md font-semibold">
+          <Link to="/inventory" className="px-5 py-3 bg-slate-400 text-[#102656] rounded-md font-semibold">
             View Inventory
           </Link>
         </div>
