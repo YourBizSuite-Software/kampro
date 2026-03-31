@@ -10,12 +10,12 @@ export default function Home() {
   return (
     <>
       {/* ---------- Logo Banner Section ---------- */}
-      <section className="bg-white py-10">
+      <section className="bg-slate-50 py-10">
         <div className="container flex justify-center">
           <img
             src={logo}
-            alt="PowerNDrive Motors Logo"
-            className="h-40 md:h-56 w-auto object-contain"
+            alt="Kam Pro Auto Logo"
+            className="h-60 md:h-72 w-auto object-contain"
           />
         </div>
       </section>
